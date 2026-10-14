@@ -1,0 +1,15 @@
+MINDCHECK — WEEK 1 STARTER KIT
+
+1. Extract this ZIP.
+2. Open the extracted project folder in Command Prompt.
+3. Windows:
+   py -m venv .venv
+   .venv\Scripts\activate
+   pip install -r requirements.txt
+   python -m streamlit run app.py
+4. Optional test:
+   python -m pytest -q
+
+Read README.md for detailed setup, troubleshooting, checklist, and demo notes.
+
+All supplied student records are synthetic. The thresholds are illustrative and not clinically validated. This prototype does not diagnose burnout or any mental-health condition. Hardware is intentionally deferred to a later extension.

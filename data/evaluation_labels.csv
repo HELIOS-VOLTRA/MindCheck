@@ -1,0 +1,31 @@
+student_id,scenario_type,expected_pattern
+S001,stable,No persistent multi-indicator change intended
+S002,stable,No persistent multi-indicator change intended
+S003,stable,No persistent multi-indicator change intended
+S004,stable,No persistent multi-indicator change intended
+S005,stable,No persistent multi-indicator change intended
+S006,stable,No persistent multi-indicator change intended
+S007,stable,No persistent multi-indicator change intended
+S008,stable,No persistent multi-indicator change intended
+S009,gradual_stress_change,Persistent multi-indicator change intended
+S010,gradual_stress_change,Persistent multi-indicator change intended
+S011,gradual_stress_change,Persistent multi-indicator change intended
+S012,gradual_stress_change,Persistent multi-indicator change intended
+S013,gradual_stress_change,Persistent multi-indicator change intended
+S014,gradual_stress_change,Persistent multi-indicator change intended
+S015,gradual_stress_change,Persistent multi-indicator change intended
+S016,gradual_stress_change,Persistent multi-indicator change intended
+S017,sleep_disruption,Persistent sleep/fatigue change intended
+S018,sleep_disruption,Persistent sleep/fatigue change intended
+S019,sleep_disruption,Persistent sleep/fatigue change intended
+S020,sleep_disruption,Persistent sleep/fatigue change intended
+S021,sleep_disruption,Persistent sleep/fatigue change intended
+S022,sleep_disruption,Persistent sleep/fatigue change intended
+S023,sleep_disruption,Persistent sleep/fatigue change intended
+S024,isolated_spike,Single-day stress spike; avoid overreacting
+S025,isolated_spike,Single-day stress spike; avoid overreacting
+S026,isolated_spike,Single-day stress spike; avoid overreacting
+S027,isolated_spike,Single-day stress spike; avoid overreacting
+S028,isolated_spike,Single-day stress spike; avoid overreacting
+S029,isolated_spike,Single-day stress spike; avoid overreacting
+S030,isolated_spike,Single-day stress spike; avoid overreacting
